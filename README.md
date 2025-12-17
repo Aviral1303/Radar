@@ -1,4 +1,4 @@
-# VC Founder Transition Tracking System
+# Radar
 
 A production-grade internal tool for venture capital firms to track when professionals transition into founder roles.
 
